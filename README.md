@@ -1,4 +1,4 @@
-# 💫 Full Stack Developer | Cloud & AI Specialist
+# 💫 Full Stack Developer | AI/ML Specialist
 
 ## 🌟 About Me
 Passionate full-stack developer with expertise in modern web technologies, cloud architecture, and AI/ML solutions. I build scalable applications and intelligent systems that solve real-world problems.
