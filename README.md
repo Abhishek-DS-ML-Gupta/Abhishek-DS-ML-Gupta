@@ -52,9 +52,9 @@
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
-          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=dark' />
+          <source media="(prefers-color-scheme: dark)" srcset='https://skillicons.dev/icons?i=vercel%2Cnetlify&theme=dark' />
           <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify&theme=light' />
-          <img src='https://skillicons.dev/icons?i=planetscale%2Cvercel%2Cnetlify' alt="learning" />
+          <img src='https://skillicons.dev/icons?i=aws%2Cvercel%2Cnetlify' alt="learning" />
         </picture>
   </a>
 <br />
