@@ -59,7 +59,7 @@
   </a>
 <br />
 <a href="https://awwward-portfolio-tan.vercel.app/">
-  <img src='https://img.shields.io/portfolio' alt="learning" />
+  <img src='https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=portfolio&logoColor=white' alt="Portfolio" />
 </a>
 </p>
 <hr />
