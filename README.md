@@ -58,8 +58,8 @@
         </picture>
   </a>
 <br />
-<a href="https://www.logalert.app">
-  <img src='https://img.shields.io/badge/Log-Alert-ca3e54?labelColor=5512ca&style=for-the-badge' alt="learning" />
+<a href="https://awwward-portfolio-tan.vercel.app/">
+  <img src='https://img.shields.io/portfolio' alt="learning" />
 </a>
 </p>
 <hr />
