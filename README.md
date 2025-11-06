@@ -1,22 +1,11 @@
 <!-- profile view count -->
 <img align="right" src="https://komarev.com/ghpvc/?username=Abhishek-DS-ML-Gupta">
 
-<!-- introduction -->
-<div align="center">
-  <h1>Hi There! 👋</h1>
-  <h2 style="
-    overflow: hidden;
-    border-right: .15em solid #536976;
-    white-space: nowrap;
-    animation: typing 3.5s steps(23, end), blink-caret .75s step-end infinite;
-    font-family: 'Courier New', Courier, monospace;
-    display: inline-block;
-    width: 0;
-    animation-fill-mode: forwards;
-  ">Myself Abhishek Gupta!</h2>
-  <p><em>Full Stack Developer | Tech Enthusiast | Problem Solver</em></p>
-</div>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
 <br />
 <!-- about me -->
 <p align="center">
