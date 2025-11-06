@@ -64,22 +64,6 @@
 </p>
 <hr />
 
-<!-- snake graph -->
-<div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
-  </picture>
-  <br />
-  <br />
-  <br />
-</div>
-
-  <hr />
-
 <!-- stats -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <br />
@@ -91,7 +75,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-DS-ML-Gupta&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-DS-ML-Gupta&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-DS-ML-Gupta&theme=default&border=61dafb" alt="sanidhyy's streak stats" />
+        <img align="left" width=390 src="https://github-readme-streak-stats-eight.vercel.app/?user=Abhishek-DS-ML-Gupta&theme=default&border=61dafb" alt="Abhishek-DS-ML-Gupta's streak stats" />
       </picture>
     </a>
   <!-- github stats -->
@@ -99,7 +83,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhishek-DS-ML-Gupta&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Abhishek-DS-ML-Gupta&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="Abhishek-DS-ML-Gupta's github stats" />
       </picture>
     </a>
   </div>
@@ -110,7 +94,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-DS-ML-Gupta&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-DS-ML-Gupta&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-DS-ML-Gupta&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="sanidhyy's contribution graph" />
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-DS-ML-Gupta&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" alt="Abhishek-DS-ML-Gupta's contribution graph" />
     </picture>
   </a>
 </p>
@@ -123,20 +107,20 @@
 <!-- first row -->
 <div width="100%" align="center">
   <!-- repo 1 -->
-  <a align="right" href="https://github.com/sanidhyy/duolingo-clone" title="Duolingo Clone">
+  <a align="right" href="https://github.com/Abhishek-DS-ML-Gupta/Game" title="Car Dodge Game">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=duolingo-clone&theme=graywhite&border_radius=10.0" alt="sanidhyy's repository stats - Duolingo Clone" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Game&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=game&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=game&theme=graywhite&border_radius=10.0" alt="Abhishek-DS-ML-Gupta's repository stats - Car Dodge Game" />
     </picture>
   </a>
 
   <!-- repo 2 -->
-  <a align="left" href="https://github.com/sanidhyy/3d-portfolio" title="3D Portfolio">
+  <a align="left" href="https://github.com/Abhishek-DS-ML-Gupta/Threejs-Portfolio" title="Threejs-Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=3d-portfolio&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - 3D portfolio" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Threejs-Portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Threejs-Portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Threejs-Portfolio&theme=graywhite&border_radius=10" alt="Abhishek-DS-ML-Gupta's repository stats - Threejs-Portfolio" />
     </picture>
   </a>
 </div>
@@ -144,20 +128,20 @@
 <!-- second row -->
 <div width="100%" align="center">
   <!-- repo 3 -->
-  <a align="left" href="https://github.com/sanidhyy/mern-admin" title="MERN Admin Dashboard">
+  <a align="left" href="https://github.com/Abhishek-DS-ML-Gupta/StockAgent" title="Smart AI Stock Agent">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=mern-admin&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - MERN Admin Dashboard" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=StockAgent&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=StockAgent&theme=graywhite&border_radius=10" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=StockAgent&theme=graywhite&border_radius=10" alt="Abhishek-DS-ML-Gupta's repository stats - Smart AI Stock Agent" />
     </picture>
   </a>
 
   <!-- repo 4 -->
-  <a align="right" href="https://github.com/sanidhyy/brainwave" title="Brainwave SaaS Landing Page">
+  <a align="right" href="https://github.com/Abhishek-DS-ML-Gupta/Awwward-Portfolio" title="Awwward-Portfolio">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=react&border_color=61dafb&border_radius=10" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" />
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=sanidhyy&repo=brainwave&theme=graywhite&border_radius=10" alt="sanidhyy's repository stats - Brainwave SaaS Landing Page" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Awwward-Portfolio&theme=react&border_color=61dafb&border_radius=10" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Awwward-Portfolio&theme=graywhite&border_radius=10" />
+      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-DS-ML-Gupta&repo=Awwward-Portfolio&theme=graywhite&border_radius=10" alt="Abhishek-DS-ML-Gupta's repository stats - Awwward-Portfolio" />
     </picture>
   </a>
 </div>
@@ -168,5 +152,5 @@
 
 <!-- show more repos -->
 <h4 align="center">
-  <a href="https://github.com/sanidhyy?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Abhishek-DS-ML-Gupta?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
