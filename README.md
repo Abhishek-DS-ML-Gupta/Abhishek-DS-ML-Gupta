@@ -2,11 +2,31 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=Abhishek-DS-ML-Gupta">
 
 <!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Abhishek Gupta!;&center=true&font=Righteous&size=35">
-  </a>
-</h1>
+<div align="center">
+  <h1>Hi There! 👋</h1>
+  <h2 class="typing-text">Myself Abhishek Gupta!</h2>
+  <p><em>Full Stack Developer | Tech Enthusiast | Problem Solver</em></p>
+</div>
+
+<style>
+  .typing-text {
+    overflow: hidden;
+    border-right: .15em solid #536976;
+    white-space: nowrap;
+    animation: typing 3.5s steps(23, end), blink-caret .75s step-end infinite;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }
+  
+  @keyframes blink-caret {
+    from, to { border-color: transparent }
+    50% { border-color: #536976; }
+  }
+</style>
 
 <br />
 <!-- about me -->
