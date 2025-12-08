@@ -82,7 +82,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhishek-DS-ML-Gupta&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Abhishek-DS-ML-Gupta&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" alt="Abhishek-DS-ML-Gupta's github stats" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Abhishek-DS-ML-Gupta&show_icons=true&theme=default&border_color=61dafb" alt="Abhishek-DS-ML-Gupta's github stats" />
       </picture>
     </a>
   </div>
